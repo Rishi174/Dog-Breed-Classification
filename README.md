@@ -1,4 +1,4 @@
-This repo is created as a part of a Hiring assignment which classifies image of a dog into one of the 9 breeds. 
+This repo is created as a part of a Hiring assignment which classifies image of a dog into one of the 10 breeds. 
 
 dog-breed-classification.ipynb - contains the original model, augmentation techniques and metrics to validate the model
 
